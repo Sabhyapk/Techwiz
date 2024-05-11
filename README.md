@@ -1,2 +1,2 @@
 # Techwiz
-## creating website for Greywiz
+creating website for Greywiz
